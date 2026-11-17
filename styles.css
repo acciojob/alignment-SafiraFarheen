@@ -1,1 +1,43 @@
-/*  your css code here. If applicable */
+
+/* General table styling */
+.middle {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 1px solid black;
+    border-spacing: 1px;
+}
+
+/* Table cell styling */
+td {
+    border: 1px solid black;
+    padding: 1px;
+}
+
+/* Table 1 alignment */
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+/* Table 3 background colours */
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+/* Table 3 image */
+#t-image {
+    text-align: center;
+}
+
+#t-image img {
+    width: 340px;
+    height: 240px;
+}
