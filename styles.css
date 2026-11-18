@@ -13,13 +13,10 @@
 td {
     border: 1px solid black;
     padding: 1px;
+	border-spacing: 1px;
 }
 
 /* Table 1 alignment */
-
-.left {
-    text-align: left;
-}
 
 .center {
     text-align: center;
