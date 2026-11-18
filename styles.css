@@ -1,6 +1,10 @@
 
 /* General table styling */
 
+h5{
+	margin-bottom:0;
+	padding-bottom:0;
+}
 .middle {
     margin-left: auto;
     margin-right: auto;
